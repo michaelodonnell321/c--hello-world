@@ -1,0 +1,11 @@
+/Users/michaelodonnell/projects/c#test/bin/Debug/netcoreapp3.0/c#test
+/Users/michaelodonnell/projects/c#test/bin/Debug/netcoreapp3.0/c#test.deps.json
+/Users/michaelodonnell/projects/c#test/bin/Debug/netcoreapp3.0/c#test.runtimeconfig.json
+/Users/michaelodonnell/projects/c#test/bin/Debug/netcoreapp3.0/c#test.runtimeconfig.dev.json
+/Users/michaelodonnell/projects/c#test/bin/Debug/netcoreapp3.0/c#test.dll
+/Users/michaelodonnell/projects/c#test/bin/Debug/netcoreapp3.0/c#test.pdb
+/Users/michaelodonnell/projects/c#test/obj/Debug/netcoreapp3.0/c#test.csprojAssemblyReference.cache
+/Users/michaelodonnell/projects/c#test/obj/Debug/netcoreapp3.0/c#test.AssemblyInfoInputs.cache
+/Users/michaelodonnell/projects/c#test/obj/Debug/netcoreapp3.0/c#test.AssemblyInfo.cs
+/Users/michaelodonnell/projects/c#test/obj/Debug/netcoreapp3.0/c#test.dll
+/Users/michaelodonnell/projects/c#test/obj/Debug/netcoreapp3.0/c#test.pdb
